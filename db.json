@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": "1629a4a6-3e28-41db-b609-98d017434de8",
+      "username": "User1",
+      "role": "SUPER_ADMIN"
+    },
+    {
+      "id": "b7e092dd-8752-4d55-a644-e3fc489ec9de",
+      "username": "User2",
+      "role": "NOT_STATE"
+    },
+    {
+      "id": "0797036e-4809-4d59-a06b-dc877fb72332",
+      "username": "User3",
+      "role": "NOT_STATE"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
