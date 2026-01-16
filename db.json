@@ -16,6 +16,7 @@
       "role": "NOT_STATE"
     }
   ],
+  "emptyUsers": [],
   "profile": {
     "name": "typicode"
   }
